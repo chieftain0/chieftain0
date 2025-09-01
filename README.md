@@ -14,6 +14,7 @@ I'm an Electrical Engineering student at NYU Abu Dhabi with a strong interest in
 
 ## Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chieftain0&theme=react-dark&hide_border=false&bg_color=0,0,0,0&color=FFFFFF&line=00FF00)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chieftain0&bg_color=0,0,0,0&color=000000&line=00FF00&hide_border=false)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chieftain0&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
